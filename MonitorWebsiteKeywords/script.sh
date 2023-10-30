@@ -1,3 +1,29 @@
+################################################################################
+# Tactical RMM Website Monitoring Script
+# 
+# Author: Stefan Lousberg
+# Contact: stefan.lousberg@owasp.org
+# 
+# Description:
+# This script is designed to monitor a specified URL for the presence of specific keywords.
+# If any of the specified keywords are not found, the script will return an error exit code.
+#
+# Repository: https://github.com/Slouserg/TRRM_Scripts
+# 
+# Usage:
+# See screenshot in the readme.md
+#
+# License: MIT
+# 
+# Disclaimer: This script is provided as-is, without any warranties or guarantees.
+# Use it at your own risk. The author and contributors are not responsible for any
+# consequences resulting from the use of this script.
+#
+# Please feel free to contribute to this repository, report issues, or suggest improvements.
+# Your feedback is highly appreciated!
+#
+################################################################################
+
 #!/bin/bash
 
 # URL to monitor (specified as an environment variable)
